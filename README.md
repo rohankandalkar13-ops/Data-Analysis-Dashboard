@@ -1,2 +1,6 @@
-# Data-Analysis-Dashboard
-Student Performance Analysis Dashboard provides insights into students’ academic outcomes based on Gender, Ethnicity, Parental Education, and Test Preparation. With 100 students analyzed, the overall average score is 61.18%. Students who completed test preparation performed better across all subjects.
+STUDENT PERFORMANCE ANALYSIS
+
+Project Objective:
+The objective of this project is to analyze student performance data to identify key factors affecting academic outcomes such as gender, ethnicity, parental education, and test preparation. This helps educators make data-driven decisions to improve student learning and overall performance.
+
+
